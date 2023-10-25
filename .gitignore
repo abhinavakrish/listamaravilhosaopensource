@@ -1,6 +1,2 @@
-### OS generated files ###
-.DS_STORE
-Thumbs.db
-*~
-*.log*
-.idea
+node_modules
+.env
